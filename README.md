@@ -2,7 +2,7 @@
 
 **`Analista de BI`**
 
-Olá, sou Thyfani! Tenho 26 anos e sou natural de MG. Sou formada em Administração e atualmente estou finalizando a Certificação Profissional de Google Data Analytics. Além disso, compartilho meu aprendizado e ideias publicando artigos no Medium: [Thyfani Xavier](http://medium.com/@thyfanixavier.321).
+Olá, sou Thyfani! Tenho 26 anos e sou natural de MG. Sou formada em Administração e me apaixonei por dados recentemente. Compartilho meu aprendizado e ideias publicando artigos no Medium: [Thyfani Xavier](http://medium.com/@thyfanixavier.321).
 
 <p align="left">
     <a href="https://medium.com/@thyfanixavier.321">
